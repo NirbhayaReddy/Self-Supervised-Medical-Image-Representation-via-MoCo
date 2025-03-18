@@ -1,0 +1,11 @@
+numpy
+pandas
+opencv-python
+torch
+torchvision
+lightly
+scikit-learn
+matplotlib
+tqdm
+kagglehub
+pytorch-grad-cam
